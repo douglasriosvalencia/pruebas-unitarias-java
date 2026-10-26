@@ -21,7 +21,7 @@ public class CarritoCompras {
         if (precio <= 0) {
             throw new IllegalArgumentException("El precio debe ser positivo");
         }
-        if (cantidad < 0) {
+        if (cantidad <= 0) {
             throw new IllegalArgumentException("La cantidad debe ser mayor a cero");
         }
         items.add(new Item(nombre, precio, cantidad));

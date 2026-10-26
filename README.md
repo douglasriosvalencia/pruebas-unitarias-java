@@ -1,10 +1,10 @@
 # Pruebas unitarias en Java — CalculadoraNotas y CarritoCompras
 
-| Dato | Completa aquí |
+| Dato | Valor |
 |---|---|
-| Aprendiz | (tu nombre completo) |
-| Ficha | (número de ficha) |
-| Cobertura de líneas alcanzada en `CarritoCompras` | (ej. 95 %) |
+| Aprendiz | Douglas Ríos Valencia |
+| Ficha | 3292107 |
+| Cobertura de líneas alcanzada en `CarritoCompras` | 100 % |
 
 ## Contenido
 - `src/main/java/co/edu/notas/` — código de producción (`CalculadoraNotas`, `CarritoCompras`)
