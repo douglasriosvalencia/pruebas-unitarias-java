@@ -18,7 +18,7 @@ public class CalculadoraNotas {
     /** Aprueba quien obtiene 3.0 o más. */
     public boolean estaAprobado(double notaFinal) {
         validarNota(notaFinal);
-        return notaFinal > NOTA_APROBATORIA;
+        return notaFinal >= NOTA_APROBATORIA;
     }
 
     /** Escala de desempeño: Superior, Alto, Básico, Bajo. */
